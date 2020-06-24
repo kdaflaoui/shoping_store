@@ -1,5 +1,5 @@
 # shoping_store
-an ecommerce app : ASP.NET, html/css/bootstrap, javascript...
+Ecommerce app : ASP.NET, html/css/bootstrap, javascript...
 
 ############ Web Site
 
